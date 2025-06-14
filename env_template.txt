@@ -1,0 +1,34 @@
+# Copy this file to .env and fill in your actual values
+
+# API Keys
+RETELL_API_KEY=your_retell_api_key_here
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Database Configuration
+DATABASE_URL=postgresql://username:password@localhost/ezcaters_db
+
+# Redis Configuration (for caching)
+REDIS_URL=redis://localhost:6379
+
+# Application Configuration
+FLASK_ENV=development
+FLASK_DEBUG=True
+SECRET_KEY=your_secret_key_here
+
+# Webhook URLs
+WEBHOOK_URL=https://your-domain.com/webhook
+
+# Voice Configuration
+DEFAULT_VOICE_ID=11labs-Adrian
+VOICE_MODEL=eleven_turbo_v2
+
+# Phone Configuration (if using custom telephony)
+PHONE_NUMBER=+1234567890
+
+# Catering Service Configuration
+MAX_SEARCH_RADIUS=50  # in miles
+DEFAULT_CUISINE_TYPES=american,italian,mexican,chinese,indian,mediterranean
+
+# Business Hours
+BUSINESS_START_HOUR=8
+BUSINESS_END_HOUR=22 
