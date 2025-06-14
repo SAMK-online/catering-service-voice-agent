@@ -1,6 +1,6 @@
-# EZCaters Voice Agent 🎤🍽️
+# Catering Service Voice Agent 🎤🍽️
 
-An intelligent voice-powered chatbot for EZCaters marketplace that helps customers find the perfect catering services through natural conversation. Built with **Retell AI** for voice interactions and **OpenAI** for intelligent responses.
+An intelligent voice-powered chatbot for Catering Service marketplace that helps customers find the perfect catering services through natural conversation. Built with **Retell AI** for voice interactions and **OpenAI** for intelligent responses.
 
 ![EZCaters Voice Agent](https://img.shields.io/badge/Voice-AI-blue) ![Python](https://img.shields.io/badge/Python-3.8+-green) ![Flask](https://img.shields.io/badge/Flask-2.0+-red) ![Retell AI](https://img.shields.io/badge/Retell-AI-purple)
 
